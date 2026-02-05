@@ -25,3 +25,7 @@ O aplicativo utiliza o arquivo `vehicles_us.csv`
 -   Pandas
 -   Plotly Express
 -   Streamlit
+
+## URL do projeto no Render
+
+https://projeto-5-5hpc.onrender.com
